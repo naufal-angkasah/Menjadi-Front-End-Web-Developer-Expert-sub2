@@ -1,9 +1,9 @@
 {
     "id": "restaurants-lite-pwa-1",
     "start_url": "../templates/index.html",
-    "name": "Makan Ges",
-    "short_name": "Makan Ges",
-    "description": "Discover interesting restaurants in Indonesia",
+    "name": "ATLAS Resto and Eatery",
+    "short_name": "ATLAS",
+    "description": "Find Any restaurants for you",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#393646",
